@@ -2,7 +2,7 @@
 
 Smashy-Design - Front-End Developer Technical Test
 
-This React Js project was develop by using ReactJS and Tailwind CSS.
+This project was develop by using ReactJS and Tailwind CSS.
 
 ## Available Scripts
 
